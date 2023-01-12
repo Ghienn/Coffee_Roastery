@@ -1,4 +1,4 @@
-import 'package:coffeeorder/details_page.dart';
+import 'package:coffee_roastery/details_page.dart';
 import 'package:flutter/material.dart';
 
 import 'home_page.dart';
